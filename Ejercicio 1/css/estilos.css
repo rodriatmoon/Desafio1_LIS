@@ -1,0 +1,28 @@
+head{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: cornflowerblue;
+}
+h1{
+    color:darkblue;
+    font-weight:bold;
+}
+h2{
+    color:seagreen;
+}
+h3{
+    color: red;
+    font-weight: bold;
+}
+
+body{
+    display:flow-root;
+    justify-content: space-between;
+}
+table{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+select{
+    height: 30px;
+}
